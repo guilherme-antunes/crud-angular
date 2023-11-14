@@ -1,0 +1,7 @@
+ENTRAR NA PASTA PELO CMD
+CD ENDEREÇO PASTA
+npm install para instalar o node e dps
+ng serve --open
+ou só ng serve e dps copia http://localhost:4200/
+sempre instale com as animações
+
